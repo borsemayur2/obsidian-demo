@@ -1,4 +1,3 @@
-tsconfig: tsconfig.json
 imap: import_map.json
 allow:
   - net
