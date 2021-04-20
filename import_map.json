@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "oak": "https://deno.land/x/oak@v7.2.0/mod.ts",
+    "obsidian": "https://deno.land/x/obsidian@3.0.0/mod.ts"
+  },
+  "hash": {
+    "obsidian": "c55f030af7f994c72733e5c43f637b1fdc44b3e8da45be748e0ebb6cc2193203",
+    "oak": "af05b973661dc9d0f44b1379a599675ee7d260dd51eb66e0bda9741103bc94c2"
+  }
+}
